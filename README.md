@@ -12,7 +12,7 @@ An Android app that tests your reflexes with the objective of popping objects as
 ![Easy Playthrough Demo](Gifs/easy.gif)
 ## 2. Challenge yourself by playing a harder difficulty!
 ![Hard Playthrough Demo](Gifs/hard.gif)
-## 3. Reset your highscores to compete with others!
+## 3. Reset your highscores and compete with friends!
 ![Hard Playthrough Demo](Gifs/highscore.gif)
 
 Technologies Used
